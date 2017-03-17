@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+    <id>prowl</id>
+    <name>Prowl</name>
+    <description>Plugin pour envoyer des notifications via Prowl</description>
+    <icon>fa fa-mobile</icon>
+    <licence>AGPL</licence>
+    <author>Thomas Martinez</author>
+    <installation>Aucune</installation>
+    <require>1.10</require>
+    <version>1.0</version>
+    <category>communication</category>
+</info>
+

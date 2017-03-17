@@ -1,4 +1,5 @@
 <?php
+//test
 require_once dirname(__FILE__) . '/../../../../core/php/core.inc.php';
 
 	class Prowl2 {
